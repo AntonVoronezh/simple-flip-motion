@@ -74,6 +74,12 @@
     "url": "https://github.com/AntonVoronezh/simple-flip-motion/issues"
   },
   "homepage": "https://github.com/AntonVoronezh/simple-flip-motion#readme",
+  "funding": [
+    {
+      "type": "boosty",
+      "url": "https://boosty.to/antonvoronezh/donate"
+    }
+  ],
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8.0",

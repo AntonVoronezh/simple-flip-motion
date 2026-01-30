@@ -201,6 +201,9 @@ useAutoAnimate({ duration: 500, easing: 'ease-out' })
     *   **I**nvert: Applies a transform to make elements look like they are still in the old position.
     *   **P**lay: Removes the transform and animates to the new position using Web Animations API.
 
+## Support the project if you value your time ➡️➡️➡️
+> "We eliminated the manual keyframe spaghetti, saved your users from jarring layout jumps, and absorbed the `MutationObserver` & FLIP calculation nightmare. You saved dozens of hours not reinventing a transition engine that would have caused layout thrashing anyway. **Your donation** is a fair trade for butter-smooth lists and weekends free from debugging CSS transforms."
+
 ## License
 
 MIT
