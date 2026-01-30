@@ -1,6 +1,6 @@
 {
   "name": "simple-flip-motion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zero-config UI transitions using FLIP technique. Lightweight alternative to auto-animate.",
   "author": {
     "name": "AntonVoronezh",
@@ -89,11 +89,21 @@
     "@angular/core": ">=14.0.0"
   },
   "peerDependenciesMeta": {
-    "react": { "optional": true },
-    "vue": { "optional": true },
-    "svelte": { "optional": true },
-    "solid-js": { "optional": true },
-    "@angular/core": { "optional": true }
+    "react": {
+      "optional": true
+    },
+    "vue": {
+      "optional": true
+    },
+    "svelte": {
+      "optional": true
+    },
+    "solid-js": {
+      "optional": true
+    },
+    "@angular/core": {
+      "optional": true
+    }
   },
   "devDependencies": {
     "@angular/core": "^17.0.0",
