@@ -3,6 +3,8 @@
 [![npm version](https://img.shields.io/npm/v/simple-flip-motion.svg?style=flat-square)](https://www.npmjs.com/package/simple-flip-motion)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/simple-flip-motion?style=flat-square)](https://bundlephobia.com/package/simple-flip-motion)
 [![license](https://img.shields.io/npm/l/simple-flip-motion?style=flat-square)](https://github.com/your-username/simple-flip-motion/blob/main/LICENSE)
+[![Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=flat-square&logo=boosty)](https://boosty.to/antonvoronezh/donate)
+[![Crypto](https://img.shields.io/badge/Donate-Crypto-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AntonVoronezhh/5)
 
 > **Zero-config, lightweight drop-in animation utility.**
 > Automatically animate DOM changes (additions, removals, reordering) without writing a single keyframe.
@@ -201,8 +203,23 @@ useAutoAnimate({ duration: 500, easing: 'ease-out' })
     *   **I**nvert: Applies a transform to make elements look like they are still in the old position.
     *   **P**lay: Removes the transform and animates to the new position using Web Animations API.
 
-## Support the project if you value your time ➡️➡️➡️
+## Support the project ❤️
 > "We eliminated the manual keyframe spaghetti, saved your users from jarring layout jumps, and absorbed the `MutationObserver` & FLIP calculation nightmare. You saved dozens of hours not reinventing a transition engine that would have caused layout thrashing anyway. **Your donation** is a fair trade for butter-smooth lists and weekends free from debugging CSS transforms."
+
+If this library saved you time, please consider supporting the development:
+
+1.  **Fiat (Cards/PayPal):** via **[Boosty](https://boosty.to/antonvoronezh/donate)** (one-time or monthly).
+2.  **Crypto (USDT/TON/BTC/ETH):** view wallet addresses on **[Telegram](https://t.me/AntonVoronezhh/5)**.
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://boosty.to/antonvoronezh/donate">
+    <img src="https://img.shields.io/badge/Support_on-Boosty-orange?style=for-the-badge&logo=boosty" alt="Support on Boosty">
+  </a>
+  <a href="https://t.me/AntonVoronezhh/5">
+    <img src="https://img.shields.io/badge/Crypto_via-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Crypto via Telegram">
+  </a>
+</div>
+
 
 ## License
 
